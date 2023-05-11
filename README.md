@@ -5,7 +5,7 @@ This project happens to be my second landing page project. It's a landing page f
 <br />
 
 <h2>Hosted Page Link</h2>
-https://northstar-landing-page.esther-annann.repl.co
+https://estheruduma.github.io/Northstar-landing-page/
 
 <h2>Languages and Utilities Used</h2>
 
